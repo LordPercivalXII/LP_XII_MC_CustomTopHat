@@ -1,0 +1,11 @@
+{
+    "function": "minecraft:set_components",
+    "components": {
+        "minecraft:equippable": {
+            "slot": "head",
+            "equip_sound": "minecraft:item.armor.equip_generic"
+        },
+        "minecraft:item_model": "lpxii:tophat"
+    },
+    "conditions": []
+}

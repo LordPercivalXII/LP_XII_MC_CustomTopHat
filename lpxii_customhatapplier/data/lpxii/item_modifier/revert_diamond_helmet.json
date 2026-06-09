@@ -1,0 +1,11 @@
+{
+    "function": "minecraft:set_components",
+    "components":{
+        "minecraft:item_model": "minecraft:diamond_helmet",
+        "minecraft:equippable": {
+            "asset_id": "minecraft:gdiamond",
+            "slot":"head"
+            },
+        "!minecraft:custom_model_data":{}
+    }
+}

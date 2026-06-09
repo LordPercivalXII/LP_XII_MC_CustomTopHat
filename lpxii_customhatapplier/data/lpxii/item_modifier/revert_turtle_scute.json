@@ -1,0 +1,11 @@
+{
+    "function": "minecraft:set_components",
+    "components":{
+        "minecraft:item_model": "minecraft:turtle_scute_helmet",
+        "minecraft:equippable": {
+            "asset_id": "minecraft:turtle_scute",
+            "slot":"head"
+            },
+        "!minecraft:custom_model_data":{}
+    }
+}

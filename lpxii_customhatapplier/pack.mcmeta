@@ -1,0 +1,10 @@
+{
+  "pack": {
+    "description": "Applies custom hats to existing armor helmets",
+    "min_format": [
+      101,
+      1
+    ],
+    "max_format": 101
+  }
+}
